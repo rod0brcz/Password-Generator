@@ -37,6 +37,11 @@ hr {
     color: #2F3E53;
     margin-bottom: 30px;
 }
+
+.feedback{
+    text-align: center;
+}
+
 #container {
     display: flex;
     flex-direction: column;
